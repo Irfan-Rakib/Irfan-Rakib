@@ -14,8 +14,8 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/Irfan-Rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Irfan-Rakib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakib756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib756/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rakib.hossain.irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rakib.hossain.irfan" height="30" width="40" /></a>
-<a href="https://youtube.com/https://www.youtube.com/@IrfanRakib25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@IrfanRakib25" height="30" width="40" /></a>
+<a href="https://github.com/Irfan-Rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Irfan-Rakib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakib756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib756/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rakib.hossain.irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rakib.hossain.irfan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@IrfanRakib25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@IrfanRakib25" height="30" width="40" /></a>
 </p>
