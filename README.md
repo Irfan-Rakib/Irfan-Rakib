@@ -4,8 +4,7 @@
 <h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
 <p align="center">
-Dedicated Full Stack Web Developer specializing in MERN Stack.  
-Focused on building scalable, user-centric, and high-performance web applications.
+I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a strong foundation in building scalable and user-centric web applications. As a fresh developer, I focus on turning creative ideas into clean, efficient, and high-performing digital products.
 </p>
 
 ---
@@ -24,20 +23,21 @@ Focused on building scalable, user-centric, and high-performance web application
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Irfan-Rakib&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Irfan-Rakib&color=blue&style=flat)
+![Visitor Count](https://profile-counter.glitch.me/Irfan-Rakib/count.svg)
 
 ---
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-Rakib&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-Rakib&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Irfan-Rakib&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Irfan-Rakib&theme=tokyonight" />
 </p>
 
 ---
@@ -68,4 +68,4 @@ Focused on building scalable, user-centric, and high-performance web application
 ---
 
 ## 🧊 3D Contribution Graph
-![3D Contributions](https://raw.githubusercontent.com/Irfan-Rakib/profile-3d-contrib/main/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
