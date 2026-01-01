@@ -15,7 +15,6 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 </p>
 
 
-<div align="center">
 
 ## 👁️ Profile Views & Activity
 
