@@ -15,6 +15,8 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Irfan-Rakib&color=blue)
+![Visitor Count](https://profile-counter.glitch.me/Irfan-Rakib/count.svg)
+
 
 
 
