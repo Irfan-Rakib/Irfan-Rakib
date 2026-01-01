@@ -36,9 +36,8 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 ---
 
 ## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Irfan-Rakib&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Irfan-Rakib&hide_border=true)
+
 
 ---
 
@@ -67,5 +66,4 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 
 ---
 
-## 🧊 3D Contribution Graph
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
