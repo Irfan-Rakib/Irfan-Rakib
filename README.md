@@ -36,20 +36,18 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-Rakib&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Rakib&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Irfan-Rakib&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
 ## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Irfan-Rakib&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Irfan-Rakib&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ---
