@@ -10,10 +10,12 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,figma" />
 </p>
 
+
+<div align="center">
 
 ## 👁️ Profile Views & Activity
 
@@ -23,7 +25,7 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 ![Profile Views](https://komarev.com/ghpvc/?username=Irfan-Rakib&style=flat-square)
 ![Visitor Graph](https://github-readme-activity-graph.vercel.app/graph?username=Irfan-Rakib&custom_title=Profile%20Visitors&theme=tokyo-night)
 
----
+</div>
 
 
 ## 📊 GitHub Statistics
