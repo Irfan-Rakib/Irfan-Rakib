@@ -14,14 +14,6 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,figma" />
 </p>
 
----
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt"/>
-</div>
-
----
-
 
 ## 👁️ Profile Views & Activity
 
@@ -74,6 +66,12 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
 </a>
 </p>
+
+---
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt"/>
+</div>
 
 ---
 
