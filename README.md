@@ -19,9 +19,10 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
 
 ## 👁️ Profile Views & Activity
 
-![Profile Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irfan-Rakib&theme=tokyonight)
+<div align="center">i![Profile Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irfan-Rakib&theme=tokyonight)</div>
 
 ## 📈 Visitor Analytics
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Irfan-Rakib&style=flat-square)
 ![Visitor Graph](https://github-readme-activity-graph.vercel.app/graph?username=Irfan-Rakib&custom_title=Profile%20Visitors&theme=tokyo-night)
 
