@@ -14,6 +14,8 @@ I am a dedicated Full Stack Web Developer specializing in the MERN Stack, with a
   <img style="100% w-full" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 
 
 <h3 align="left">Connect with me:</h3>
