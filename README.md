@@ -1,6 +1,6 @@
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEFHPMn2nZYuQ/profile-displaybackgroundimage-shrink_350_1400/B56Zm8e1_FJ0AY-/0/1759803829815?e=1769040000&v=beta&t=biNqqNOid8n7OEFOQQDdWQ0GyHiXZD3NwLIy4XHUlno)
 
-<h1 align="center">Hi 👋, I'm Irfan Rakib</h1>
+<h1 align="center">Hi 👋, I'm Rakib Hossain Irfan</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
 <p align="center">
